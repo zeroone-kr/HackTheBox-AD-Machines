@@ -71,9 +71,9 @@ A list of all Active Directory machines from HackTheBox, sorted by their release
 | Sauna          | Easy       | 15 Feb 2020    | https://app.hackthebox.com/machines/229 |
 | Monteverde     | Medium     | 11 Jan 2020    | https://app.hackthebox.com/machines/223 |
 | Resolute       | Medium     | 07 Dec 2019    | https://app.hackthebox.com/machines/220 |
-| Forest         | Easy       | 12 Oct 2019    | https://app.hackthebox.com/machines/212 |
+| ~~Forest~~         | Easy       | 12 Oct 2019    | https://app.hackthebox.com/machines/212 |
 | Sizzle         | Insane     | 12 Jan 2019    | https://app.hackthebox.com/machines/169 |
-| Active         | Easy       | 28 Jul 2018    | https://app.hackthebox.com/machines/148 |
+| ~~Active~~         | Easy       | 28 Jul 2018    | https://app.hackthebox.com/machines/148 |
 | Reel           | Hard       | 23 Jun 2018    | https://app.hackthebox.com/machines/143 |
 | Rabbit         | Insane     | 31 Mar 2018    | https://app.hackthebox.com/machines/133 |
 | Mantis         | Hard       | 16 Sep 2017    | https://app.hackthebox.com/machines/98  |
