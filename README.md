@@ -66,7 +66,7 @@ A list of all Active Directory machines from HackTheBox, sorted by their release
 | PivotAPI       | Insane     | 08 May 2021    | https://app.hackthebox.com/machines/345 |
 | APT            | Insane     | 31 Oct 2020    | https://app.hackthebox.com/machines/296 |
 | Blackfield     | Hard       | 06 Jun 2020    | https://app.hackthebox.com/machines/255 |
-| Cascade        | Medium     | 28 Mar 2020    | https://app.hackthebox.com/machines/235 |
+| ~~Cascade~~        | Medium     | 28 Mar 2020    | https://app.hackthebox.com/machines/235 |
 | Multimaster    | Insane     | 07 Mar 2020    | https://app.hackthebox.com/machines/232 |
 | Sauna          | Easy       | 15 Feb 2020    | https://app.hackthebox.com/machines/229 |
 | Monteverde     | Medium     | 11 Jan 2020    | https://app.hackthebox.com/machines/223 |
