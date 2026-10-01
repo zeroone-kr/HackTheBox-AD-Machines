@@ -60,7 +60,7 @@ A list of all Active Directory machines from HackTheBox, sorted by their release
 | Object         | Hard       | 28 Feb 2022    | https://app.hackthebox.com/machines/447 |
 | Acute          | Hard       | 12 Feb 2022    | https://app.hackthebox.com/machines/438 |
 | Search         | Hard       | 18 Dec 2021    | https://app.hackthebox.com/machines/422 |
-| Return         | Easy       | 27 Sep 2021    | https://app.hackthebox.com/machines/401 |
+| ~~Return~~         | Easy       | 27 Sep 2021    | https://app.hackthebox.com/machines/401 |
 | Anubis         | Insane     | 14 Aug 2021    | https://app.hackthebox.com/machines/371 |
 | Intelligence   | Medium     | 03 Jul 2021    | https://app.hackthebox.com/machines/357 |
 | PivotAPI       | Insane     | 08 May 2021    | https://app.hackthebox.com/machines/345 |
