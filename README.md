@@ -27,7 +27,7 @@ A list of all Active Directory machines from HackTheBox, sorted by their release
 | RustyKey       | Hard       | 28 Jun 2025    | https://app.hackthebox.com/machines/669 |
 | TombWatcher    | Medium     | 07 Jun 2025    | https://app.hackthebox.com/machines/664 |
 | Certificate    | Hard       | 31 May 2025    | https://app.hackthebox.com/machines/663 |
-| Fluffy         | Easy       | 24 May 2025    | https://app.hackthebox.com/machines/662 |
+| ~~Fluffy~~         | Easy       | 24 May 2025    | https://app.hackthebox.com/machines/662 |
 | Puppy          | Medium     | 17 May 2025    | https://app.hackthebox.com/machines/661 |
 | Scepter        | Hard       | 19 Apr 2025    | https://app.hackthebox.com/machines/657 |
 | Haze           | Hard       | 29 Mar 2025    | https://app.hackthebox.com/machines/654 |
